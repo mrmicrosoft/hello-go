@@ -1,0 +1,1 @@
+go install -v github.com/ramya-rao-a/go-outline@latest
